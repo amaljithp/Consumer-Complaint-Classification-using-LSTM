@@ -19,8 +19,8 @@
     - **TensorFlow / Keras** → Deep learning (Embedding, LSTM, Dropout, Dense)  
 
 ## 📂 Dataset
-    - The dataset file is **not included** in this repository due to size/privacy.  
-    - If you need the dataset (Excel/CSV), please contact me at 📧 **syamaism@gmail.com**.  
+    - The dataset file is **not included** in this repository due to size.  
+    - If you need the dataset (CSV), please contact me at 📧 **syamaism@gmail.com**.  
     - Expected file: `greviance.csv`  
     - The final model (Grievence.ipynb) is uploaded with the Project.
 
